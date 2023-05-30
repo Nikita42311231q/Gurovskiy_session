@@ -1,0 +1,13 @@
+C:\Users\Admin_7\source\repos\Sessia1Gurovskiy\obj\Debug\Sessia1Gurovskiy.csproj.AssemblyReference.cache
+C:\Users\Admin_7\source\repos\Sessia1Gurovskiy\obj\Debug\Sessia1Gurovskiy.Form1.resources
+C:\Users\Admin_7\source\repos\Sessia1Gurovskiy\obj\Debug\Sessia1Gurovskiy.Form2.resources
+C:\Users\Admin_7\source\repos\Sessia1Gurovskiy\obj\Debug\Sessia1Gurovskiy.Properties.Resources.resources
+C:\Users\Admin_7\source\repos\Sessia1Gurovskiy\obj\Debug\Sessia1Gurovskiy.csproj.GenerateResource.cache
+C:\Users\Admin_7\source\repos\Sessia1Gurovskiy\obj\Debug\Sessia1Gurovskiy.csproj.CoreCompileInputs.cache
+C:\Users\Admin_7\source\repos\Sessia1Gurovskiy\bin\Debug\Sessia1Gurovskiy.exe.config
+C:\Users\Admin_7\source\repos\Sessia1Gurovskiy\bin\Debug\Sessia1Gurovskiy.exe
+C:\Users\Admin_7\source\repos\Sessia1Gurovskiy\bin\Debug\Sessia1Gurovskiy.pdb
+C:\Users\Admin_7\source\repos\Sessia1Gurovskiy\obj\Debug\Sessia1Gurovskiy.exe
+C:\Users\Admin_7\source\repos\Sessia1Gurovskiy\obj\Debug\Sessia1Gurovskiy.pdb
+C:\Users\Admin_7\source\repos\Sessia1Gurovskiy\obj\Debug\Sessia1Gurovskiy.Form3.resources
+C:\Users\Admin_7\source\repos\Sessia1Gurovskiy\obj\Debug\Sessia1Gurovskiy.Form4.resources
